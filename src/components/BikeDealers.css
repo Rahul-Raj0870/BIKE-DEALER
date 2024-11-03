@@ -1,0 +1,30 @@
+.item{
+    background-color: #DDDDDD;
+   
+}
+.item>img{
+    width: 30vw;
+    border-bottom: solid white 6px;
+}
+.items{
+    margin-inline: 15%;
+}
+.custom-cont{
+    /* margin-inline: 8%; */
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 5%;
+    gap: 0px;
+    
+    
+}
+
+.custom>img{
+    width: 100%;
+}
+.custom-headings{
+    line-height: 1.6;
+    padding-left: 2.7rem; 
+    padding-top: 4rem;
+}
+

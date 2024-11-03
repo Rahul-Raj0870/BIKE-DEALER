@@ -1,0 +1,20 @@
+.serv-item{
+    background-color: #2A353B;
+    color: white;
+    
+}
+
+.serv-item>img{
+    width: 17vw;
+    border-bottom: solid white 6px;
+}
+.free-serv{
+    margin-top: 5%;
+    width: 100%;
+    background-color: #2A353B;
+}
+.localImg{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+}
